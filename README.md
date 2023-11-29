@@ -40,6 +40,3 @@ Low-level: Rust
 * Each lang has it's own directory from root
 * In the root directory, the README will contain links to the resources used
 * Each lang directory will have a `still to define` subdir with the ... and a `still to define` subdir.
-
-## TODO
-Config WSL
