@@ -2,7 +2,7 @@
 
 4 languages in 4 to 8 weeks
 1 to 2 weeks per language group
-x > 4 hours per language
+more than 4 hours per language
 
 ## Schedule
 
@@ -40,3 +40,4 @@ Low-level: Rust
 * Each lang directory will have a `still to define` subdir with the ... and a `still to define` subdir.
 
 ## TODO
+Config WSL
