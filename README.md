@@ -1,5 +1,6 @@
 # Nunes Tour of Languages
 
+This was based on metame [mtol](https://github.com/metame/mtol)
 4 languages in 4 to 8 weeks
 1 to 2 weeks per language group
 more than 4 hours per language
