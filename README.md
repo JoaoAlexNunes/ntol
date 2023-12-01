@@ -9,16 +9,16 @@ This was based on metame [mtol](https://github.com/metame/mtol)
 ## Schedule
 
 ### Week 1
-Lisps: Clojure
+* Lisps: Clojure
 
 ### Week 2
-ML: Haskell
+* ML: Haskell
 
 ### Week 3
-SL: Lua
+* SL: Lua
 
 ### Week 4
-Low-level: Rust
+* Low-level: Rust
 
 ## Format
 1. Getting started docs 15m to 1h
