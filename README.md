@@ -23,9 +23,8 @@ Low-level: Rust
 ## Format
 1. Getting started docs 15m to 1h
 2. Dev env setup: compilers, repls, editor config, etc. 15m to 1h
-3. Still to define
-4. Still to define
-
+3. Programing a minigame first week
+4. Programing a tournament simulator second week
 
 ## Directory Structure
 * Each lang has it's own directory from root
