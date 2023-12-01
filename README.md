@@ -34,5 +34,4 @@ This was based on metame [mtol](https://github.com/metame/mtol)
 ### Why a minigame and a tournament simulator
 
 * It's a greate way of showcase what I learned about the languagues,
-* It uses the most comon data structures, for example lists, arrays, etc.
-* Prove of programing fundamentals
+* It uses the most comon data structures, for example lists, arrays, etc (programing fundamentals).
