@@ -9,23 +9,22 @@ This was based on metame [mtol](https://github.com/metame/mtol)
 ## Schedule
 
 ### Week 1
-Lisps: Clojure
+* Lisps: Clojure
 
 ### Week 2
-ML: Haskell
+* ML: Haskell
 
 ### Week 3
-SL: Lua
+* SL: Lua
 
 ### Week 4
-Low-level: Rust
+* Low-level: Rust
 
 ## Format
 1. Getting started docs 15m to 1h
 2. Dev env setup: compilers, repls, editor config, etc. 15m to 1h
-3. Still to define
-4. Still to define
-
+3. Programing a minigame first week
+4. Programing a tournament simulator second week
 
 ## Directory Structure
 * Each lang has it's own directory from root
@@ -35,5 +34,4 @@ Low-level: Rust
 ### Why a minigame and a tournament simulator
 
 * It's a greate way of showcase what I learned about the languagues,
-* It uses the most comon data structures, for example lists, arrays, etc.
-* Prove of programing fundamentals
+* It uses the most comon data structures, for example lists, arrays, etc (programing fundamentals).
