@@ -26,17 +26,14 @@ Low-level: Rust
 3. Still to define
 4. Still to define
 
-### Still to define
-* 
-* 
-* 
-
-### Still to define
-* 
-* 
-* 
 
 ## Directory Structure
 * Each lang has it's own directory from root
 * In the root directory, the README will contain links to the resources used
-* Each lang directory will have a `still to define` subdir with the ... and a `still to define` subdir.
+* Each lang directory will have a `hello_world` subdir with the hello world basic app and a `minigame` and a `tournament simulator` subdir.
+
+### Why a minigame and a tournament simulator
+
+* It's a greate way of showcase what I learned about the languagues,
+* It uses the most comon data structures, for example lists, arrays, etc.
+* Prove of programing fundamentals
