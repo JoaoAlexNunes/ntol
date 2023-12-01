@@ -1,0 +1,6 @@
+{:name "Tic-Tac-Toe"
+ :description "A simple Tic-Tac-Toe game implemented in Clojure."
+ :output-dir "doc"
+ :source-paths ["src"]
+ :namespaces [tictactoe.core tictactoe.game tictactoe.ui]
+ :readme "README.md"}
