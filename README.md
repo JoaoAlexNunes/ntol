@@ -2,22 +2,21 @@
 
 This was based on metame [mtol](https://github.com/metame/mtol)
 </br>
-- 4 languages in 4 to 8 weeks
-- 1 to 2 weeks per language group
-- more than 4 hours per language
+- 4 languages in 8 to 12 weeks
+- 3 weeks per language
 
 ## Schedule
 
-### Week 1
+### Week 1 
 * Lisps: Clojure
 
-### Week 2
+### Week 4
 * ML: Haskell
 
-### Week 3
+### Week 7
 * SL: Lua
 
-### Week 4
+### Week 10
 * Low-level: Rust
 
 ## Format
@@ -35,3 +34,8 @@ This was based on metame [mtol](https://github.com/metame/mtol)
 
 * It's a greate way of showcase what I learned about the languagues,
 * It uses the most comon data structures, for example lists, arrays, etc (programing fundamentals).
+
+### Minigame Options
+* Tictactoe Console
+* Cross words
+* Sodoku
