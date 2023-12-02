@@ -1,5 +1,6 @@
 (ns tictactoe.core 
-  (:require [tictactoe.ui :as ui]))
+  (:require [tictactoe.ui :as ui])
+  (:gen-class))
 
 (defn check-win [player board]
   (or (and (= (nth board 0) player) (= (nth board 1) player) (= (nth board 2) player))

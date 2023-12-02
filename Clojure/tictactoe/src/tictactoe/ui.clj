@@ -2,11 +2,11 @@
 
 #_{:clj-kondo/ignore [:clojure-lsp/unused-public-var]}
 (defn print-board [board]
-  (println " " (nth board 0) " | " (nth board 1) " | " (nth board 2))
-  (println "---+---+---")
-  (println " " (nth board 3) " | " (nth board 4) " | " (nth board 5))
-  (println "---+---+---")
-  (println " " (nth board 6) " | " (nth board 7) " | " (nth board 8)))
+  (println " " (nth board 0) "|" (nth board 1) "|" (nth board 2))
+  (println "----+---+----")
+  (println " " (nth board 3) "|" (nth board 4) "|" (nth board 5))
+  (println "----+---+----")
+  (println " " (nth board 6) "|" (nth board 7) "|" (nth board 8)))
 
 (defn get-move [player board]
   (let [move (read-line)]
