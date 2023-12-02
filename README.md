@@ -6,19 +6,19 @@ This was based on metame [mtol](https://github.com/metame/mtol)
 
 ## Schedule
 ### Week 1 
-* Lisps: Clojure
-
-### Week 4
-* ML: Ocaml
+* Lisp: Clojure
 
 ### Week 7
-* FP: Haskell
-
+* FPL: Haskell
+    
+#### Week 4
+* ML: Ocaml
+  
 ### Week 10
-* SL: Lua
+* Scripting Language: Lua
 
 ### Week 13
-* Low-level: Rust
+* System Programing Language: Rust
 
 ## Format
 1. Getting started docs 15m to 1h
