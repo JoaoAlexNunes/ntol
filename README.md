@@ -1,12 +1,10 @@
 # Nunes Tour of Languages
-
 This was based on metame [mtol](https://github.com/metame/mtol)
 </br>
-- 4 languages in 8 to 12 weeks
+- 5 languages in 8 to 12 weeks
 - 3 weeks per language
 
 ## Schedule
-
 ### Week 1 
 * Lisps: Clojure
 
@@ -22,8 +20,6 @@ This was based on metame [mtol](https://github.com/metame/mtol)
 ### Week 13
 * Low-level: Rust
 
-
-
 ## Format
 1. Getting started docs 15m to 1h
 2. Dev env setup: compilers, repls, editor config, etc. 15m to 1h
@@ -36,7 +32,6 @@ This was based on metame [mtol](https://github.com/metame/mtol)
 * Each lang directory will have a `hello_world` subdir with the hello world basic app and a `minigame` and a `tournament simulator` subdir.
 
 ### Why a minigame and a tournament simulator
-
 * It's a greate way of showcase what I learned about the languagues,
 * It uses the most comon data structures, for example lists, arrays, etc (programing fundamentals).
 
