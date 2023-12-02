@@ -8,10 +8,10 @@ This was based on metame [mtol](https://github.com/metame/mtol)
 ### Week 1 
 * Lisp: Clojure
 
-### Week 7
+### Week 4
 * FPL: Haskell
     
-#### Week 4
+### Week 7
 * ML: Ocaml
   
 ### Week 10
