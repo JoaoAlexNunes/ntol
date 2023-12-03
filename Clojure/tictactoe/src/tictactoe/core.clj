@@ -12,10 +12,21 @@
       (and (= (nth board 0) player) (= (nth board 4) player) (= (nth board 8) player))
       (and (= (nth board 2) player) (= (nth board 4) player) (= (nth board 6) player))))
 
+(defn get-move [player board]
+  (let [move (read-line)]
+    (if (and (integer? (read-string move))
+             (<= 1 (read-string move) 9)
+             (= (nth board (dec (read-string move))) \space))
+      (assoc board (dec (read-string move)) player)
+      (do
+        (println "Invalid move. Please enter a number between 1 and 9.")
+        (get-move player board)))))
+
+
 (defn play [player board]
   (println "Player " player "'s turn.")
   (ui/print-board board)
-  (let [new-board (ui/get-move player board)]
+  (let [new-board (get-move player board)]
     (if (check-win player new-board)
       (do
         (ui/print-board new-board)
