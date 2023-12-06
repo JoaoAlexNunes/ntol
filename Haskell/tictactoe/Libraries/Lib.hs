@@ -1,5 +1,3 @@
--- Lib
-
 module Lib
   ( Player (X, O),
     Cell,

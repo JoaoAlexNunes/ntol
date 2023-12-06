@@ -1,5 +1,3 @@
--- Main.hs
-
 import Lib
 
 main :: IO ()
