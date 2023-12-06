@@ -13,7 +13,7 @@ Part 2: Developing a big project
 ## Schedule Part 1
 ### Week 1 
 * Lisp: Clojure
-
+  
 ### Week 3
 * FPL: Haskell
     
@@ -27,20 +27,7 @@ Part 2: Developing a big project
 * System Programing Language: Rust
 
 ## Schedule Part 2
-### Week 11
-* Lisp: Clojure
-
-### Week 13
-* FPL: Haskell
-    
-### Week 15
-* ML: Ocaml
-  
-### Week 17
-* Scripting Language: Lua
-
-### Week 19
-* System Programing Language: Rust
+* The same order as Part 1 and starts at week 11
 
 ## Format
 1. Getting started docs 15m to 1h
