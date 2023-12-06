@@ -1,7 +1,3 @@
-Certainly! If you want users to be able to run the compiled JAR file, you can modify the README file accordingly. Here's an updated version:
-
----
-
 # Tic Tac Toe in Clojure
 
 ## Overview
