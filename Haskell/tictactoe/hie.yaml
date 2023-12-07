@@ -1,2 +1,7 @@
 cradle:
   cabal:
+    - path: "libraries"
+      component: "lib:tictactoe"
+
+    - path: "app/Main.hs"
+      component: "tictactoe:exe:tictactoe"
