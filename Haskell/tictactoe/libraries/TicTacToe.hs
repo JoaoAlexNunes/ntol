@@ -1,4 +1,4 @@
-module Lib
+module TicTacToe
   ( Player (X, O),
     Cell,
     Board,

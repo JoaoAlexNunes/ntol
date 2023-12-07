@@ -1,4 +1,4 @@
-import Lib
+import TicTacToe
 
 main :: IO ()
 main = playGame X initialBoard
