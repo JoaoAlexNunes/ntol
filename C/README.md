@@ -11,7 +11,7 @@ For a C development environment in VS Code, I am using the **C/C++ extension** a
 
 ### Build Tool
 
-C projects commonly use **Make** as the build tool. Make is a build automation tool that automatically builds executable programs and libraries from source code.
+C projects commonly use **Make** as the build tool. Make is a build automation tool that automatically builds executable programs and libraries from source code. In my case I'm actually using **premake** that generates make files for linux
 
 ### Compiler
 
