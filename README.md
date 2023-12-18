@@ -3,14 +3,10 @@ This was based on metame [mtol](https://github.com/metame/mtol)
 
 
 Part 1: Learning the language
-- 5 languages in 8 to 10 weeks
+- 6 languages in 8 to 10 weeks
 - 2 weeks per language
 
-Part 2: Developing a big project
-- 5 languages in 8 to 10 weeks
-- 1-2 weeks per language
-
-## Schedule Part 1
+## Schedule
 ### Week 1 
 * Lisp: Clojure
   
@@ -34,7 +30,7 @@ Part 2: Developing a big project
 ## Directory Structure
 * Each lang has it's own directory from root
 * In the root directory, the README will contain links to the resources used
-* Each lang directory will have a `hello_world` subdir with the hello world and fizzbuzz exercises, plus a `minigame` subdir.
+* Each lang directory will have a `snippets` subdir with the hello world and fizzbuzz exercises, plus a `minigame` subdir.
 
 ### Why a minigame and a tournament simulator
 * It's a greate way of showcase what I learned about the languagues,
