@@ -24,21 +24,17 @@ Part 2: Developing a big project
 * Scripting Language: Lua
 
 ### Week 9
-* System Programing Language: Rust
-
-## Schedule Part 2
-* The same order as Part 1 and starts at week 11
+* System Programing Language: Rust and C
 
 ## Format
 1. Getting started docs 15m to 1h
 2. Dev env setup: compilers, repls, editor config, etc. 15m to 1h
-3. Programing a minigame first week
-4. Programing a tournament simulator in the Second Part
+3. Programing a minigame
 
 ## Directory Structure
 * Each lang has it's own directory from root
 * In the root directory, the README will contain links to the resources used
-* Each lang directory will have a `hello_world` subdir with the hello world and fizzbuzz exercises, plus a `minigame` subdir and a `tournament simulator` subdir.
+* Each lang directory will have a `hello_world` subdir with the hello world and fizzbuzz exercises, plus a `minigame` subdir.
 
 ### Why a minigame and a tournament simulator
 * It's a greate way of showcase what I learned about the languagues,
