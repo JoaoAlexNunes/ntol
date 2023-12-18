@@ -2,13 +2,6 @@
 
 [Reference]()
 
-> Nunes: "what are your favorite resources for learning C as an complete beginer/intermidiate to C?"
-> [Haskell for Great Good!](http://learnyouahaskell.com/chapters), [HaskellDocs](https://www.haskell.org/documentation/), [Haskell Getting Started](https://www.haskell.org/get-started/)
-
-# C
-
-[Reference]()
-
 > Nunes: "what are your favorite resources for learning C as a complete junior dev"
 > [C adn Cpp](cppreference.com), [C Resources](https://github.com/kspalaiologos/C-Learning-Resources), [streamer](https://www.twitch.tv/strager)
 
