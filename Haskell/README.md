@@ -1,4 +1,4 @@
-# Clojure
+# Haskell
 
 [Reference](https://www.haskell.org/)
 
