@@ -1,7 +1,7 @@
 # Nunes Tour of Languages
 This was based on metame [mtol](https://github.com/metame/mtol)
 
-## Status: On stand by
+#### Status: On stand by
 
 Part 1: Learning the language
 - 6 languages in 8 to 10 weeks
