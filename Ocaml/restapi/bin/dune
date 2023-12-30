@@ -1,4 +1,5 @@
 (executable
  (public_name restapi)
  (name main)
- (libraries restapi dream))
+ (libraries restapi dream)
+ (preprocess (pps lwt_ppx)))
