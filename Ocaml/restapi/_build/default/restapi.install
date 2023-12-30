@@ -1,0 +1,8 @@
+lib: [
+  "_build/install/default/lib/restapi/META"
+  "_build/install/default/lib/restapi/dune-package"
+  "_build/install/default/lib/restapi/opam"
+]
+bin: [
+  "_build/install/default/bin/restapi"
+]
