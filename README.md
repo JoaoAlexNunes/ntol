@@ -33,7 +33,7 @@ Part 1: Learning the language
 * In the root directory, the README will contain links to the resources used
 * Each lang directory will have a `snippets` subdir with the hello world and fizzbuzz exercises, plus a `minigame` subdir.
 
-### Why a minigame and a tournament simulator
+### Why a minigame
 * It's a greate way of showcase what I learned about the languagues,
 * It uses the most comon data structures, for example lists, arrays, etc (programing fundamentals).
 
