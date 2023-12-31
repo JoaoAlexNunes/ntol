@@ -1,4 +1,4 @@
 (library
- (name restapi)
+ (name hello_world)
  (libraries ppx_deriving_yojson.runtime)
  (preprocess (pps ppx_deriving_yojson)))

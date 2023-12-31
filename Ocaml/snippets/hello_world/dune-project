@@ -1,6 +1,6 @@
 (lang dune 3.12)
 
-(name restapi)
+(name hello_world)
 
 (generate_opam_files true)
 
@@ -16,7 +16,7 @@
 (documentation https://url/to/documentation)
 
 (package
- (name restapi)
+ (name hello_world)
  (synopsis "A short synopsis")
  (description "A longer description")
  (depends ocaml dune dream ppx_deriving_yojson)
