@@ -5,23 +5,15 @@ Part 1: Learning the language
 - 7 languages in 8 to 13 weeks
 - 2 weeks per language
 
-<p style="font-weight: bold">Status: Ongoing (slow)</p>
+#### Status: Ongoing (slow)
 
-## Schedule
-### Week 1 
+## Languages
+
 * Lisp: Clojure
-  
-### Week 3
-* FPL: Haskell
-    
-### Week 5
-* ML: Ocaml
-
-### Week 7
-* System Programing Language: Rust Zig C
-  
-### Week 13
-* Scripting Language: Lua
+* FPL : Haskell   
+* ML  : Ocaml
+* LL  : Rust Zig C
+* SL  : Lua
 
 ## Format
 1. Getting started docs 15m to 1h
