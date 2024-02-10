@@ -1,11 +1,13 @@
 # Nunes Tour of Languages
 This was based on metame [mtol](https://github.com/metame/mtol)
 
-## Status: Ongoing (slow)
-
 Part 1: Learning the language
 - 7 languages in 8 to 13 weeks
 - 2 weeks per language
+
+## Status: 
+
+- Ongoing (slow)
 
 ## Schedule
 ### Week 1 
@@ -22,8 +24,6 @@ Part 1: Learning the language
   
 ### Week 13
 * Scripting Language: Lua
-
-
 
 ## Format
 1. Getting started docs 15m to 1h
