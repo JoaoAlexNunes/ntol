@@ -1,10 +1,10 @@
 # Nunes Tour of Languages
 This was based on metame [mtol](https://github.com/metame/mtol)
 
-#### Status: On stand by
+#### Status: Ongoing (slow)
 
 Part 1: Learning the language
-- 6 languages in 8 to 10 weeks
+- 7 languages in 8 to 13 weeks
 - 2 weeks per language
 
 ## Schedule
@@ -16,12 +16,14 @@ Part 1: Learning the language
     
 ### Week 5
 * ML: Ocaml
-  
+
 ### Week 7
+* System Programing Language: Rust Zig C
+  
+### Week 13
 * Scripting Language: Lua
 
-### Week 9
-* System Programing Language: Rust and C
+
 
 ## Format
 1. Getting started docs 15m to 1h
