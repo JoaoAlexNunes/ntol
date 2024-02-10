@@ -5,9 +5,7 @@ Part 1: Learning the language
 - 7 languages in 8 to 13 weeks
 - 2 weeks per language
 
-#### Status: 
-
-- Ongoing (slow)
+<p style="font-weight: bold">Status: Ongoing (slow)</p>
 
 ## Schedule
 ### Week 1 
