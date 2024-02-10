@@ -1,7 +1,7 @@
 # Nunes Tour of Languages
 This was based on metame [mtol](https://github.com/metame/mtol)
 
-Part 1: Learning the language
+
 - 7 languages in 8 to 13 weeks
 - 2 weeks per language
 
