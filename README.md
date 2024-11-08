@@ -1,4 +1,4 @@
-# Nunes Tour of Languages
+# Tour of Languages
 This was based on metame [mtol](https://github.com/metame/mtol)
 
 
